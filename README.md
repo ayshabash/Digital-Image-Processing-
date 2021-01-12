@@ -1,3 +1,3 @@
 # Digital-Image-Processing-
-Notes on image processing 
+## Notes on image processing 
 image processsing
